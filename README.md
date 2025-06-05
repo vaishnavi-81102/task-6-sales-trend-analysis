@@ -95,8 +95,5 @@ ORDER BY
 - MySQL or any SQL-compliant database system
 - A table named `Online_Sales_Data` with appropriate schema
 
----
 
-## 📧 Contact
 
-For any questions or collaboration, feel free to reach out!
